@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpRTcPCgdLDWkHKjTN/hAlCD3GtjDnNijGxErfF49FuBoMe5DxO5MG+CCez8V35C4I3B9BpVNMorjHsGcxwJkA==",
+  "success": true,
+  "projectFilePath": "D:\\Programmeringsprojekt\\POP\\wopo\\wopo\\wopo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macho\\.nuget\\packages\\raylib-cs\\4.5.0\\raylib-cs.4.5.0.nupkg.sha512",
+    "C:\\Users\\macho\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
